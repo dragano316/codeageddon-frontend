@@ -11,3 +11,29 @@
     border: 1px solid #ea5410;
     border-radius: 6px;
 }
+.div1{
+    margin-left: 200px;
+}
+.button1{
+    margin-bottom: 40px;
+    margin-right:160px;
+}
+button:focus{
+    outline:none;
+}
+@media (max-width: 572px) {
+    .div1{
+        margin-left:10px;
+    }
+    .form-controll{
+        display:block;
+        width:100%;
+    }
+    .button1{
+        margin-bottom: 60px;
+        margin-right:0%;
+    }
+    .topnav a{
+        text-decoration: none;!important
+        outline:none;!important
+    }
