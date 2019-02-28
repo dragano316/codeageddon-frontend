@@ -11,6 +11,10 @@
     border: 1px solid #ea5410;
     border-radius: 6px;
 }
+form{
+    margin-top:2.1%;
+    padding:5%;
+}
 .div1{
     margin-left: 200px;
 }
@@ -24,6 +28,9 @@ button:focus{
 @media (max-width: 572px) {
     .div1{
         margin-left:10px;
+    }
+    form{
+        padding-top:15%;
     }
     .form-controll{
         display:block;
