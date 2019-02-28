@@ -19,7 +19,7 @@
     margin-right:160px;
 }
 button:focus{
-    outline:none;
+    outline:none;   
 }
 @media (max-width: 572px) {
     .div1{
@@ -37,3 +37,4 @@ button:focus{
         text-decoration: none;!important
         outline:none;!important
     }
+}

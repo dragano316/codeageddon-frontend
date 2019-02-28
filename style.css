@@ -189,7 +189,7 @@ a button{
     color:white;
 }
 button:hover{
-  background:red;
+  background:linear-gradient(to right, #f7b409, #ffcc4c);
 }
 .button:active {
   box-shadow: 0 5px #666;
