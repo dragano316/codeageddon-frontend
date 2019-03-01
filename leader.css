@@ -163,9 +163,16 @@ li:nth-child(4n+4){
     top: 40vh;
     height: 65vh;
   }
-  h1{
-    font-size:1rem;
+  .k{
+    font-size:100%;
   }
+  .leaderboard ol li small {
+    font-size:100%;
+  }
+  .leaderboard ol li mark{
+    font-size:90%;
+    text-align:left;
+  } 
 }
 
 .leaderboard::-webkit-scrollbar {

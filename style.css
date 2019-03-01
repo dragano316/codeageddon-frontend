@@ -152,6 +152,10 @@ body {
     display: block;
     text-align: center;
     transition:all 1.8s;
+    font-size:70%;
+  }
+  h1{
+    font-size:175%;
   }
   a{
     text-decoration: none;
@@ -170,7 +174,7 @@ body {
   position: relative;
   background-color: transparent;/*#4CAF50;*/
   border: none;
-  font-size: 15px;
+  font-size: 90%;
   padding: 20px 0px;
   width: 30vh;
   text-align: center;
