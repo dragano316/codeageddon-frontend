@@ -155,7 +155,7 @@ body {
     font-size:70%;
   }
   h1{
-    font-size:175%;
+    font-size:110%;
   }
   a{
     text-decoration: none;
@@ -208,4 +208,7 @@ span a{
   color:yellow;
   font-family:neuropol;
   text-decoration: none;
+}
+h1{
+  font-family:neuropol;
 }
