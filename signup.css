@@ -25,6 +25,9 @@ form{
 button:focus{
     outline:none; 
 }
+::placeholder{
+    color:white;
+}
 @media (max-width: 572px) {
     .div1{
         margin-left:10px;
