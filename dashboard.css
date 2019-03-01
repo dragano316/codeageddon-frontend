@@ -23,3 +23,14 @@
     border: 1px solid #ea5410;
     border-radius: 6px;
 }
+@media (max-width: 572px){
+	.h{
+		font-size:125%;
+	}
+	.hh{
+		font-size:100%;
+	}
+	.hhh{
+		font-size:75%;
+	}
+}
