@@ -21,8 +21,14 @@
   background-color: darkgrey;
   outline: 1px solid slategrey;
 }
+li{
+  text-align:justify;
+}
 @media(max-width: 1030px){
   .typewriter{
     height: 47vh;
+  }
+  li{
+    text-align:left;
   }
 }

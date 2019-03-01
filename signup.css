@@ -23,7 +23,7 @@ form{
     margin-right:160px;
 }
 button:focus{
-    outline:none;   
+    outline:none; 
 }
 @media (max-width: 572px) {
     .div1{
@@ -37,7 +37,7 @@ button:focus{
         width:100%;
     }
     .button1{
-        margin-bottom: 60px;
+        margin-bottom: 52%;
         margin-right:0%;
     }
     .topnav a{
